@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b19d3ce2-71ce-4b20-9c73-70259bfdc696" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.10.2/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/drawer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/drawer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/horisontale_list.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/horisontale_list.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Component/image_caroussel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Component/image_caroussel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Account.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Account.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Click_Product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Click_Product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/Home.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/Home.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/favorite_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/favorite_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/filter_product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/filter_product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/product_category.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/product_category.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/search_product.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/search_product.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/Screens/shoping_cart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Screens/shoping_cart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api/getdata/get_products.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api/getdata/get_products.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api/helpers_api.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api/helpers_api.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/general_config/functions.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/general_config/functions.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1angc8ix3AMQMJ2WJzsTcOBMvMV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="android.project.structure.last.selected" value="SDK Location" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="android.sdk.path" value="C:/flutter" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="flutter.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\lib\IconsNew" />
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\lib" />
+      <recent name="D:\Project_Android_Studio\Ecome\lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\images" />
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\lib\IconsNew" />
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\fonts" />
+      <recent name="D:\Project_Android_Studio\Complete_Ecome\lib" />
+      <recent name="D:\Project_Android_Studio\Ecome\images\flashseles" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b19d3ce2-71ce-4b20-9c73-70259bfdc696" name="Default Changelist" comment="" />
+      <created>1578481334692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578481334692</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ecome</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Dart Packages</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
